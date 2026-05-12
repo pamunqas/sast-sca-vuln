@@ -1,0 +1,6 @@
+# HIGH: Hardcoded Secrets / Credentials
+AWS_ACCESS_KEY = "AKIAIOSFODNN7EXAMPLE"
+AWS_SECRET_KEY = "wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY"
+
+# LOW: Debug mode enabled
+DEBUG_MODE = True
